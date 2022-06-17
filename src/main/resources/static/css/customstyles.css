@@ -1,0 +1,9 @@
+td.bold{
+  font-weight:bold;
+}
+
+.border-right{
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: rgb(73 80 87) !important;
+}
